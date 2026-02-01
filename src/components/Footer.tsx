@@ -100,7 +100,7 @@ const Footer = () => {
               © {new Date().getFullYear()} Cafe Loombini. All rights reserved.
             </p>
             <p className="text-cream/50 text-sm">
-              Made with ❤️ in Kolkata
+              Made with ❤️ by official.masudalam@gmail.com
             </p>
           </div>
         </div>
